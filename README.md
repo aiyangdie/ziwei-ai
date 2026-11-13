@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/24-ziwei-ai.jpg" alt="ziwei-ai 项目封面" width="100%"></p>
+
 # 星言 · 紫微 AI 助手
 
 基于 [iztro](https://github.com/sylarlong/iztro) 排盘 + Cloudflare Workers AI 对话解读。
